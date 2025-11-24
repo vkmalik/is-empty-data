@@ -1,6 +1,6 @@
 {
   "name": "is-empty-data",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Tiny utility to check if a value is empty",
   "main": "index.js",
   "publishConfig": {
