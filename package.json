@@ -1,0 +1,39 @@
+{
+  "name": "is-empty-data",
+  "version": "1.0.1",
+  "description": "Tiny utility to check if a value is empty",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "empty",
+    "utility",
+    "null",
+    "undefined",
+    "NaN",
+    "check",
+    "string",
+    "array",
+    "object"
+  ],
+  "author": "Vivek Kumar",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md"
+  ],
+  "jest": {
+    "testPathIgnorePatterns": [
+      "/test.js$"
+    ]
+  }
+}
