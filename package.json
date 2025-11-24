@@ -6,6 +6,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vkmalik/is-empty-data.git"
+  },
   "types": "index.d.ts",
   "scripts": {
     "test": "jest"
